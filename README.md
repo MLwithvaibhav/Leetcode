@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/0020-valid-parentheses) |
 | [0443-string-compression](https://github.com/MLwithvaibhav/Leetcode/tree/master/0443-string-compression) |
 ## Sorting
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
