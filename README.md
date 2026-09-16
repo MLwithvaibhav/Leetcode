@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MLwithvaibhav/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/MLwithvaibhav/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MLwithvaibhav/Leetcode/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0647-palindromic-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MLwithvaibhav/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
