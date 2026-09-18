@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MLwithvaibhav/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MLwithvaibhav/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MLwithvaibhav/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MLwithvaibhav/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MLwithvaibhav/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MLwithvaibhav/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
