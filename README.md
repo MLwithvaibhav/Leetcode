@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/MLwithvaibhav/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1323-maximum-69-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/1323-maximum-69-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/MLwithvaibhav/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MLwithvaibhav/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bit Manipulation
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MLwithvaibhav/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/MLwithvaibhav/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
