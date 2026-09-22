@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MLwithvaibhav/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MLwithvaibhav/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MLwithvaibhav/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/MLwithvaibhav/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/MLwithvaibhav/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MLwithvaibhav/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MLwithvaibhav/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MLwithvaibhav/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Union-Find
