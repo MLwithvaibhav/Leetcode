@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MLwithvaibhav/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MLwithvaibhav/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MLwithvaibhav/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MLwithvaibhav/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MLwithvaibhav/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MLwithvaibhav/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MLwithvaibhav/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MLwithvaibhav/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MLwithvaibhav/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MLwithvaibhav/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MLwithvaibhav/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MLwithvaibhav/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MLwithvaibhav/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Union-Find
 |  |
 | ------- |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MLwithvaibhav/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MLwithvaibhav/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MLwithvaibhav/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MLwithvaibhav/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MLwithvaibhav/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Simulation
