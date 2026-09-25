@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MLwithvaibhav/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1096-brace-expansion-ii](https://github.com/MLwithvaibhav/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MLwithvaibhav/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/MLwithvaibhav/Leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/MLwithvaibhav/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1096-brace-expansion-ii](https://github.com/MLwithvaibhav/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/MLwithvaibhav/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MLwithvaibhav/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MLwithvaibhav/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1096-brace-expansion-ii](https://github.com/MLwithvaibhav/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Binary Search
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/MLwithvaibhav/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -203,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/MLwithvaibhav/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/MLwithvaibhav/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
