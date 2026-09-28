@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MLwithvaibhav/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/MLwithvaibhav/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/MLwithvaibhav/Leetcode/tree/master/0835-image-overlap) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MLwithvaibhav/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MLwithvaibhav/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MLwithvaibhav/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MLwithvaibhav/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MLwithvaibhav/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MLwithvaibhav/Leetcode/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -241,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
