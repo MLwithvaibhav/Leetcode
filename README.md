@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MLwithvaibhav/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MLwithvaibhav/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/MLwithvaibhav/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MLwithvaibhav/Leetcode/tree/master/0189-rotate-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Backtracking
