@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MLwithvaibhav/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/MLwithvaibhav/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1137-n-th-tribonacci-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/1323-maximum-69-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MLwithvaibhav/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MLwithvaibhav/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MLwithvaibhav/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MLwithvaibhav/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MLwithvaibhav/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MLwithvaibhav/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
