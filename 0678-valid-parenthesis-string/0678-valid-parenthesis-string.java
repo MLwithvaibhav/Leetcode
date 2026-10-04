@@ -1,33 +1,38 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int minOpen = 0;
-        int maxOpen = 0;
+        Stack<Integer> openStack = new Stack<>();
+        Stack<Integer> starStack = new Stack<>();
 
-        for (char c : s.toCharArray()) {
-            if (c == '(') {
-                minOpen++;
-                maxOpen++;
-            } else if (c == ')') {
-                minOpen--;
-                maxOpen--;
-            } else { // c == '*'
-                minOpen--; // Agar '*' ko ')' maana
-                maxOpen++; // Agar '*' ko '(' maana
-                // Agar '*' ko "" maana, toh count change nahi hoga (jo is range ke andar hi aata hai)
-            }
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
 
-            // Agar maxOpen hi negative ho gaya, matlab ')' zyada ho gaye jo balance nahi ho sakte
-            if (maxOpen < 0) {
-                return false;
-            }
-
-            // minOpen 0 se chhota nahi ho sakta kyunki hum extra ')' assume nahi karenge
-            if (minOpen < 0) {
-                minOpen = 0;
+            if (ch == '(') {
+                openStack.push(i);
+            } else if (ch == '*') {
+                starStack.push(i);
+            } else { // Matlab ch == ')' mila
+                if (!openStack.isEmpty()) {
+                    openStack.pop(); // Pehle asli '(' se match karo
+                } else if (!starStack.isEmpty()) {
+                    starStack.pop(); // Agar '(' nahi hai toh '*' ko use kar lo
+                } else {
+                    return false; // Dono khali hain matlab is ')' ko koi band nahi kar sakta
+                }
             }
         }
 
-        // Agar minOpen 0 tak pahunch sakta hai, matlab saare brackets successfully balance ho gaye
-        return minOpen == 0;
+        // Loop khatam hone ke baad: bache hue '(' ko '*' se cancel karo
+        while (!openStack.isEmpty() && !starStack.isEmpty()) {
+            // Agar '(' ka index '*' ke index se bada hai (matlab "*(" aisa scene hai)
+            // toh '*' kabhi bhi '(' ko close nahi kar sakta!
+            if (openStack.peek() > starStack.peek()) {
+                return false;
+            }
+            openStack.pop();
+            starStack.pop();
+        }
+
+        // Agar saare '(' khatam ho gaye, toh string valid hai!
+        return openStack.isEmpty();
     }
 }
