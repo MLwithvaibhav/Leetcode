@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MLwithvaibhav/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/MLwithvaibhav/Leetcode/tree/master/0547-number-of-provinces) |
 ## Sliding Window
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/MLwithvaibhav/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/MLwithvaibhav/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/MLwithvaibhav/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
@@ -303,9 +305,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/MLwithvaibhav/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/MLwithvaibhav/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/MLwithvaibhav/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/MLwithvaibhav/Leetcode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
