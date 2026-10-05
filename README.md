@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/MLwithvaibhav/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/MLwithvaibhav/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MLwithvaibhav/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/MLwithvaibhav/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/MLwithvaibhav/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/MLwithvaibhav/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MLwithvaibhav/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/MLwithvaibhav/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -371,4 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MLwithvaibhav/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/MLwithvaibhav/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/MLwithvaibhav/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
