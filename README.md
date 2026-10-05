@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MLwithvaibhav/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MLwithvaibhav/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/MLwithvaibhav/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/MLwithvaibhav/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MLwithvaibhav/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3524-find-x-value-of-array-i](https://github.com/MLwithvaibhav/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MLwithvaibhav/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/MLwithvaibhav/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MLwithvaibhav/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MLwithvaibhav/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/MLwithvaibhav/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3498-reverse-degree-of-a-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MLwithvaibhav/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/MLwithvaibhav/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/MLwithvaibhav/Leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
