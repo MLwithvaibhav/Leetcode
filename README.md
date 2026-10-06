@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/MLwithvaibhav/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MLwithvaibhav/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/MLwithvaibhav/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/MLwithvaibhav/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/MLwithvaibhav/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/MLwithvaibhav/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Longest Common Subsequence
 |  |
 | ------- |
