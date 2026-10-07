@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/MLwithvaibhav/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/MLwithvaibhav/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/MLwithvaibhav/Leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/MLwithvaibhav/Leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/MLwithvaibhav/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MLwithvaibhav/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/MLwithvaibhav/Leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MLwithvaibhav/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MLwithvaibhav/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0394-decode-string) |
 ## Memoization
 |  |
 | ------- |
