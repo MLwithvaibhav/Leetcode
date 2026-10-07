@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MLwithvaibhav/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MLwithvaibhav/Leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MLwithvaibhav/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/MLwithvaibhav/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/MLwithvaibhav/Leetcode/tree/master/0443-string-compression) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/MLwithvaibhav/Leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/MLwithvaibhav/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MLwithvaibhav/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/MLwithvaibhav/Leetcode/tree/master/0399-evaluate-division) |
