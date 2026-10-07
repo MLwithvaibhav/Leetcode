@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/MLwithvaibhav/Leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/MLwithvaibhav/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MLwithvaibhav/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0394-decode-string) |
@@ -377,12 +378,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/MLwithvaibhav/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/MLwithvaibhav/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MLwithvaibhav/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/MLwithvaibhav/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/MLwithvaibhav/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MLwithvaibhav/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/MLwithvaibhav/Leetcode/tree/master/0841-keys-and-rooms) |
