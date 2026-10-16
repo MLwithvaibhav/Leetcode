@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/MLwithvaibhav/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/MLwithvaibhav/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/MLwithvaibhav/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/MLwithvaibhav/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MLwithvaibhav/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MLwithvaibhav/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MLwithvaibhav/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/MLwithvaibhav/Leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
