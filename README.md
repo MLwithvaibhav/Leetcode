@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MLwithvaibhav/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/MLwithvaibhav/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MLwithvaibhav/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/MLwithvaibhav/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MLwithvaibhav/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MLwithvaibhav/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/MLwithvaibhav/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/MLwithvaibhav/Leetcode/tree/master/0342-power-of-four) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MLwithvaibhav/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MLwithvaibhav/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Dynamic Programming
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MLwithvaibhav/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MLwithvaibhav/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MLwithvaibhav/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/MLwithvaibhav/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
