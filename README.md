@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MLwithvaibhav/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/MLwithvaibhav/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/MLwithvaibhav/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MLwithvaibhav/Leetcode/tree/master/0231-power-of-two) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MLwithvaibhav/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MLwithvaibhav/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/MLwithvaibhav/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/MLwithvaibhav/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MLwithvaibhav/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MLwithvaibhav/Leetcode/tree/master/0326-power-of-three) |
