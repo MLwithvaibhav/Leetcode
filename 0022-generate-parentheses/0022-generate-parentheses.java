@@ -1,28 +1,29 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> result = new ArrayList<>();
-        backtrack(result, "", 0, 0, n);
+        backtrack(result, new StringBuilder(), 0, 0, n);
         return result;
     }
 
-    private void backtrack(List<String> result, String current, int open, int close, int max) {
-        // Base Case: String poori ban gayi
-        if (current.length() == max * 2) {
-            result.add(current);
+    private void backtrack(List<String> result, StringBuilder current, int open, int close, int n) {
+        // Base case: jab poori string ban jaye
+        if (current.length() == 2 * n) {
+            result.add(current.toString());
             return;
         }
 
-        // Choice 1: '(' add karo agar max se kam hai
-        if (open < max) {
-            backtrack(result, current + "(", open + 1, close, max);
+        // Branch 1: '(' lagana agar open < n ho
+        if (open < n) {
+            current.append('(');
+            backtrack(result, current, open + 1, close, n);
+            current.deleteCharAt(current.length() - 1); // Backtrack / Undo
         }
 
-        // Choice 2: ')' add karo agar open brackets zyada hain
+        // Branch 2: ')' lagana agar close < open ho
         if (close < open) {
-            backtrack(result, current + ")", open, close + 1, max);
+            current.append(')');
+            backtrack(result, current, open, close + 1, n);
+            current.deleteCharAt(current.length() - 1); // Backtrack / Undo
         }
     }
 }
