@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MLwithvaibhav/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MLwithvaibhav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/MLwithvaibhav/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MLwithvaibhav/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MLwithvaibhav/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MLwithvaibhav/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0136-single-number) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MLwithvaibhav/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MLwithvaibhav/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0268-missing-number) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MLwithvaibhav/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/MLwithvaibhav/Leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/MLwithvaibhav/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/MLwithvaibhav/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/MLwithvaibhav/Leetcode/tree/master/1096-brace-expansion-ii) |
